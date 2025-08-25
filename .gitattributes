@@ -1,0 +1,5 @@
+# 忽略换行符（LF与CR）的转换
+*.js -text
+*.json -text
+*.txt -text
+*.md -text
